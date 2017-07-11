@@ -10,6 +10,7 @@ Resources
 	The Android O and Java Developer Course - Build 9 Full Apps
 	Paulo Dichone, App Developer and Teacher
 	https://www.skillshare.com/classes/The-Android-O-and-Java-Developer-Course-Build-9-Full-Apps/1634932136
+	
 #3 DREAM MKE
 Build Something Great
 http://www.dreammke.com/?page_id=4931
