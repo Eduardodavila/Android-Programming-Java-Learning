@@ -1,7 +1,7 @@
 # Android-Programming-Java-Learning
 Sharing learning files, tricks, usefull information and asking help.
 
-Resources
+### Resources
 
 #1 Google Developer Android
 		https://developer.android.com/training/index.html
